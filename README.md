@@ -13,7 +13,7 @@
 <br>
 <br>
 
-[<img alt="배포 사이트 접속 버튼" src="https://github.com/user-attachments/assets/b229a8e9-44d6-439f-b9d4-e63c03cfa6a1">](https://testable95.co.kr/)
+[<img alt="배포 사이트 접속 버튼" src="https://github.com/user-attachments/assets/b229a8e9-44d6-439f-b9d4-e63c03cfa6a1">](https://testable95.site/)
 
 <br>
 
