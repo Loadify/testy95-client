@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://testable95.co.kr/">
+<a href="https://testable95.site/">
   <img alt="로고" src="https://github.com/user-attachments/assets/08d424bc-c80b-4e9d-98f9-b0838e88902a">
 </a>
 
